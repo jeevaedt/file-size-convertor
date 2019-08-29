@@ -1,0 +1,16 @@
+{
+  "name": "file-size-convertor",
+  "version": "1.0.2",
+  "description": "File size to human readable formats",
+  "author": "jeevaedt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "readme": "README.md",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeevaedt/file-size-convertor"
+  }
+}
